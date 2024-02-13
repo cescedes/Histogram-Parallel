@@ -1,8 +1,3 @@
-/**
- * @author Sükriye Aybüke Akgül
- * @id 12211694
- */
-
 #include <thread>
 #include <vector>
 #include <iostream>
